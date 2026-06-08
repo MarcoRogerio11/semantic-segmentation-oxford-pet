@@ -91,6 +91,7 @@ segmentacao-semantica-oxford-pet/
 ├── curva_treinamento.png
 ├── predicao_segmentacao.png
 └── README.md
+```
 
 ## Tecnologias Utilizadas
 
